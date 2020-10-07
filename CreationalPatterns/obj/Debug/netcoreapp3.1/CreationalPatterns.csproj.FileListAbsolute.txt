@@ -1,0 +1,12 @@
+C:\Users\facundo.navarro2\source\repos\Patterns\CreationalPatterns\bin\Debug\netcoreapp3.1\CreationalPatterns.exe
+C:\Users\facundo.navarro2\source\repos\Patterns\CreationalPatterns\bin\Debug\netcoreapp3.1\CreationalPatterns.deps.json
+C:\Users\facundo.navarro2\source\repos\Patterns\CreationalPatterns\bin\Debug\netcoreapp3.1\CreationalPatterns.runtimeconfig.json
+C:\Users\facundo.navarro2\source\repos\Patterns\CreationalPatterns\bin\Debug\netcoreapp3.1\CreationalPatterns.runtimeconfig.dev.json
+C:\Users\facundo.navarro2\source\repos\Patterns\CreationalPatterns\bin\Debug\netcoreapp3.1\CreationalPatterns.dll
+C:\Users\facundo.navarro2\source\repos\Patterns\CreationalPatterns\bin\Debug\netcoreapp3.1\CreationalPatterns.pdb
+C:\Users\facundo.navarro2\source\repos\Patterns\CreationalPatterns\obj\Debug\netcoreapp3.1\CreationalPatterns.AssemblyInfoInputs.cache
+C:\Users\facundo.navarro2\source\repos\Patterns\CreationalPatterns\obj\Debug\netcoreapp3.1\CreationalPatterns.AssemblyInfo.cs
+C:\Users\facundo.navarro2\source\repos\Patterns\CreationalPatterns\obj\Debug\netcoreapp3.1\CreationalPatterns.csproj.CoreCompileInputs.cache
+C:\Users\facundo.navarro2\source\repos\Patterns\CreationalPatterns\obj\Debug\netcoreapp3.1\CreationalPatterns.dll
+C:\Users\facundo.navarro2\source\repos\Patterns\CreationalPatterns\obj\Debug\netcoreapp3.1\CreationalPatterns.pdb
+C:\Users\facundo.navarro2\source\repos\Patterns\CreationalPatterns\obj\Debug\netcoreapp3.1\CreationalPatterns.genruntimeconfig.cache

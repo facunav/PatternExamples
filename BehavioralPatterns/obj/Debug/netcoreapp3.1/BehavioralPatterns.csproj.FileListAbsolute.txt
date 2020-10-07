@@ -1,0 +1,13 @@
+C:\Users\facundo.navarro2\source\repos\Patterns\BehavioralPatterns\bin\Debug\netcoreapp3.1\BehavioralPatterns.exe
+C:\Users\facundo.navarro2\source\repos\Patterns\BehavioralPatterns\bin\Debug\netcoreapp3.1\BehavioralPatterns.deps.json
+C:\Users\facundo.navarro2\source\repos\Patterns\BehavioralPatterns\bin\Debug\netcoreapp3.1\BehavioralPatterns.runtimeconfig.json
+C:\Users\facundo.navarro2\source\repos\Patterns\BehavioralPatterns\bin\Debug\netcoreapp3.1\BehavioralPatterns.runtimeconfig.dev.json
+C:\Users\facundo.navarro2\source\repos\Patterns\BehavioralPatterns\bin\Debug\netcoreapp3.1\BehavioralPatterns.dll
+C:\Users\facundo.navarro2\source\repos\Patterns\BehavioralPatterns\bin\Debug\netcoreapp3.1\BehavioralPatterns.pdb
+C:\Users\facundo.navarro2\source\repos\Patterns\BehavioralPatterns\obj\Debug\netcoreapp3.1\BehavioralPatterns.csprojAssemblyReference.cache
+C:\Users\facundo.navarro2\source\repos\Patterns\BehavioralPatterns\obj\Debug\netcoreapp3.1\BehavioralPatterns.AssemblyInfoInputs.cache
+C:\Users\facundo.navarro2\source\repos\Patterns\BehavioralPatterns\obj\Debug\netcoreapp3.1\BehavioralPatterns.AssemblyInfo.cs
+C:\Users\facundo.navarro2\source\repos\Patterns\BehavioralPatterns\obj\Debug\netcoreapp3.1\BehavioralPatterns.csproj.CoreCompileInputs.cache
+C:\Users\facundo.navarro2\source\repos\Patterns\BehavioralPatterns\obj\Debug\netcoreapp3.1\BehavioralPatterns.dll
+C:\Users\facundo.navarro2\source\repos\Patterns\BehavioralPatterns\obj\Debug\netcoreapp3.1\BehavioralPatterns.pdb
+C:\Users\facundo.navarro2\source\repos\Patterns\BehavioralPatterns\obj\Debug\netcoreapp3.1\BehavioralPatterns.genruntimeconfig.cache

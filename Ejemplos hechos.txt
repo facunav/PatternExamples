@@ -1,0 +1,12 @@
+https://www.geeksforgeeks.org/command-pattern/
+https://dotnettutorials.net/lesson/memento-design-pattern/
+https://www.codeproject.com/Articles/796075/Implement-Observer-Pattern-in-NET-3-Techniques
+https://coderethinked.com/the-strategy-design-pattern-with-an-example/
+https://www.codeproject.com/Articles/482196/Understanding-and-Implementing-Template-Method-Des
+https://dotnettutorials.net/lesson/prototype-design-pattern/
+https://dotnetcoretutorials.com/2019/06/11/singleton-pattern-in-net-core/
+https://code-maze.com/adapter/
+https://code-maze.com/facade/
+https://dotnettutorials.net/lesson/decorator-design-pattern/
+https://dotnettutorials.net/lesson/state-design-pattern/
+https://dotnettutorials.net/lesson/proxy-design-pattern/
